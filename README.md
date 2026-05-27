@@ -8,7 +8,7 @@ I'm a software engineer specializing in building scalable backend services. I pa
 ---
 
 ### 🚀 Featured Project (Thesis / Diploma)
-**[AgroPlanPro](https://github.com/UNBunny/AgroPlanPro)** — "Digital Advisor" for Agronomists.
+**[AgroMatrix](https://github.com/UNBunny/AgroPlanPro)** — "Digital Advisor" for Agronomists.
 * **Concept:** A geospatial analysis system for crop rotation planning using ML-based risk assessment.
 * **Smart Analytics:** Unlike standard digital logs, it recommends crops based on soil chemistry, economics, and weather risks.
 * **Tech Stack:** Java 17+ & Spring Boot for the "Brain", Python (Scikit-learn) for ML-scoring, and Leaflet for interactive field mapping.
